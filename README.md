@@ -1,6 +1,4 @@
-# Nexora
-# 🚀 Nexora AI – Offline Intelligent Assistant
-
+🚀 Nexora AI – Offline Intelligent Assistant
 Nexora AI is a privacy-first, fully offline intelligent assistant designed to process user queries without relying on cloud infrastructure.  
 Built for secure, low-connectivity, and sensitive environments.
 
