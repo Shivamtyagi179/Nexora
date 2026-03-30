@@ -1,14 +1,8 @@
-# 🤖 Nexora AI — Offline Intelligent Assistant
+# 🤖 Nexora AI — Offline Intelligent Assistan
 
-> 🚀 A futuristic, privacy-first AI assistant powered entirely on local hardware — no cloud, no tracking, just pure intelligence.
+Nexora AI** is a next-generation offline AI assistant designed to run completely on your local machine. It combines **speech recognition (STT)**, **natural language processing (LLM)**, and **text-to-speech (TTS)** to create a seamless, real-time conversational experience — without relying on the internet.
 
----
-
-## 🌟 Overview
-
-**Nexora AI** is a next-generation offline AI assistant designed to run completely on your local machine. It combines **speech recognition (STT)**, **natural language processing (LLM)**, and **text-to-speech (TTS)** to create a seamless, real-time conversational experience — without relying on the internet.
-
-Built with performance and privacy in mind, Nexora delivers **low-latency responses**, **secure data handling**, and a **futuristic user experience**.
+Built with performance and privacy in mind, Nexora delivers **low-latency responses**, **secure data handling**, and a **futuristic user experience.
 
 ---
 
