@@ -5,7 +5,16 @@ Nexora AI** is a next-generation offline AI assistant designed to run completely
 Built with performance and privacy in mind, Nexora delivers **low-latency responses**, **secure data handling**, and a **futuristic user experience.
 
 ---
+                                                          GUI DESIGN OF NEXORA 
 
+
+                                                         <img width="1911" height="869" alt="image" src="https://github.com/user-attachments/assets/b7fbb48b-51f8-455a-b448-addcc26a1d67" />
+
+
+
+
+
+---
 ## 🎯 Key Features
 
 * 🎤 **Voice Interaction**
